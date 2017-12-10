@@ -1,6 +1,6 @@
 # Галкин Антон 
 
-from sort import sort
+from sorting import sort
 import pytest
 
 
