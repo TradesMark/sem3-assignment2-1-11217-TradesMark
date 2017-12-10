@@ -14,7 +14,7 @@ def sort(x):
   return list
 
 def main():
-    print(' Result: ', sort(range(1000,10000)))
+    print(' Result: ', sort(range(10,100)))
 
 if __name__ == '__main__':
     main()
